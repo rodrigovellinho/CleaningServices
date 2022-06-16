@@ -36,7 +36,7 @@ yarn dev
 - **[ReactJS](https://reactjs.org/)**
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[Material UI](https://mui.com/)**
-- **[Reat Input Mask](https://www.npmjs.com/package/react-input-mask)**
+- **[React Input Mask](https://www.npmjs.com/package/react-input-mask)**
 - **[Axios](https://axios-http.com/docs/intro)**
 <br>
 
