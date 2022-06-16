@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h3 align="center">
+  CleaningServices
+</h3>
+<br>
 
-## Getting Started
+## :rocket:
 
-First, run the development server:
+<p align="center">
+  <img src="" alt="CleaningServices">
+</p>
+
+Cleaning Services é um aplicativo de busca por profissionais de serviços de limpeza. A busca pelos profissionais é realizada através do cep de quem está optando pela contratação do serviço.
+
+<br>
+
+## :wrench: Instalação e uso
 
 ```bash
-npm run dev
-# or
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/rodrigovellinho/CleaningServices.git 
+# ou use a opção de download.
+
+# Instale as dependências
+yarn
+
+# Rode a aplicação
 yarn dev
+
+# Acesse http://localhost:3000 no seu navagador
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 🔨 Tecnologias:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- **[NextJS](https://nextjs.org/)**
+- **[ReactJS](https://reactjs.org/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[Material UI](https://mui.com/)**
+- **[Reat Input Mask](https://www.npmjs.com/package/react-input-mask)**
+- **[Axios](https://axios-http.com/docs/intro)**
+<br>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+---
 
-## Learn More
+Feito por [Rodrigo Kloeckner](https://github.com/rodrigovellinho)
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
