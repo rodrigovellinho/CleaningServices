@@ -2,11 +2,10 @@
   CleaningServices
 </h3>
 <br>
-
 ## :rocket:
 
 <p align="center">
-  <img src="" alt="CleaningServices">
+  <img src="https://github.com/rodrigovellinho/CleaningServices/blob/main/public/img/cover1.jpg?raw=true" alt="CleaningServices">
 </p>
 
 Cleaning Services é um aplicativo de busca por profissionais de serviços de limpeza. A busca pelos profissionais é realizada através do cep de quem está optando pela contratação do serviço.
